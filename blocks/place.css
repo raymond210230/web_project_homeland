@@ -184,7 +184,7 @@
     width: 289px;
     height: 48px;
     align-self: start;
-    background: linear-gradient(to right, #0278fe, #003a7b);
+    background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
     text-decoration: none;
     color: white;
     font-weight: 600;
@@ -196,6 +196,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    
+
 
 }
 
@@ -404,7 +406,7 @@
     grid-area: image;
     width: 320px;
     height: 320px;
-    box-shadow: none
+    box-shadow: none;
 }
 
 
