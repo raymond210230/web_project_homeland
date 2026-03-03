@@ -1,17 +1,45 @@
 .footer{
     display: flex;
     justify-content: center;
-    margin-top: 92px;
-    margin-bottom: 24px;
+    margin: 0 532px 25px 554px;
 }
 
 .footer__copyright{
-    max-width: 194px;
+    width: 194px;
     font-family: "Inter", Arial, sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
+    margin: 0 0 25px 0;
     
+}
+
+
+
+
+@media screen and (max-width: 1024px){
+.footer{
+    margin: 180px 279px 25px 295px;
+}
+
+.footer__copyright{
+    margin: 90px 0 25px 0;
+    
+}
+
+
+}
+
+@media screen and (max-width: 640px){
+.footer{
+    margin: 65px 64px 25px 62px;
+}
+
+.footer__copyright{
+    margin: 65px 0 25px 0;
+    
+}
+
 }
 
 
