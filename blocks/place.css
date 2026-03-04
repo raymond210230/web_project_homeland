@@ -221,9 +221,8 @@
 .place{
     width: 720px;
     height: 2912px;
-    margin: 88px 24px 90px 24px;
+    margin: 88px auto 90px auto;
     gap: 72px;
-    background-color: greenyellow;
 }
 
 .place__item{
@@ -306,11 +305,10 @@
 .place{
     width: 320px;
     height: auto;
-    margin: 62px 0;
+    margin: 62px auto 0 auto;
     display: flex;
     flex-direction: column;
     gap: 50px;
-    background-color: #0278fe;
 }
 
 .place__item{

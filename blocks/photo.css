@@ -26,8 +26,8 @@
         width: 720px;
         height: 1104px;
         margin-top: 64px;
-        margin-right: 24px;
-        margin-left: 24px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     .photo__grid{
@@ -49,8 +49,8 @@
         width: 288px;
         height: 1812px;
         margin-top: 38px;
-        margin-right: 16px;
-        margin-left: 16px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     .photo__grid{
